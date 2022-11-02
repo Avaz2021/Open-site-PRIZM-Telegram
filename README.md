@@ -1,1 +1,7 @@
-# Open-site-PRIZM-Telegram
+Как установить нужные библиотеки?
+
+pip install aiogram==2.19
+
+pip install requests==2.25.1
+
+В файле BotToken.py указана ссылка на видео, в котором объясняют, как создать токен
